@@ -557,25 +557,32 @@ footer .container{
     }
 
     #nuestros-programas{
-        padding: 120px 30px;
+        padding: 80px 20px;
     }
 
     #nuestros-programas .programas{
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 30px;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
     }
 
     #nuestros-programas h2{
-        font-size: 4em;
+        font-size: 3em;
+        margin-bottom: 40px;
     }
 
     #nuestros-programas .cartas{
-        padding: 50px 30px;
+        padding: 35px 20px;
+        margin: 10px;
+    }
+
+    #nuestros-programas p {
+        font-size: 0.95em;
+        min-height: auto;
     }
 
     .icono{
-        font-size: 4.5em;
+        font-size: 3.2em;
     }
 
       #caracteristicas {
@@ -661,6 +668,37 @@ footer .container{
         transform: translateY(-5px);
         box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
       }
+}
+
+@media (min-width: 1024px){
+    #nuestros-programas{
+        padding: 120px 30px;
+    }
+
+    #nuestros-programas .programas{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;
+    }
+
+    #nuestros-programas h2{
+        font-size: 4em;
+        margin-bottom: 60px;
+    }
+
+    #nuestros-programas .cartas{
+        padding: 50px 30px;
+        margin: 20px;
+    }
+
+    #nuestros-programas p {
+        font-size: 1em;
+        min-height: 100px;
+    }
+
+    .icono{
+        font-size: 4.5em;
+    }
 }
 
 @keyframes p-button{
