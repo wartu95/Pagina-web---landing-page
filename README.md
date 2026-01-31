@@ -67,7 +67,8 @@ Si quieres ver la versión desplegada de la página, visita:
 [Academia Digital — Demo desplegada](https://wartu95.github.io/Pagina-web---landing-page/)
 
 También puedes usar ese enlace para compartir la web con otras personas.
-Estructura de archivos
+
+## Estructura de archivos
 
 ```
 Pagina-web---landing-page/
