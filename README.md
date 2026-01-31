@@ -59,6 +59,14 @@ El objetivo principal de este proyecto fue:
 
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
+
+## Demo desplegado
+
+Si quieres ver la versión desplegada de la página, visita:
+
+[Academia Digital — Demo desplegada](https://wartu95.github.io/Pagina-web---landing-page/)
+
+También puedes usar ese enlace para compartir la web con otras personas.
 Estructura de archivos
 
 ```
