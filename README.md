@@ -64,7 +64,7 @@ El objetivo principal de este proyecto fue:
 
 Si quieres ver la versión desplegada de la página, visita:
 
-[Academia Digital — Demo desplegada](https://wartu95.github.io/Pagina-web---landing-page/)
+[Academia Digital — Demo desplegada](https://wartu95.github.io/Landing_Page_Academia_Digital/)
 
 También puedes usar ese enlace para compartir la web con otras personas.
 
@@ -89,7 +89,7 @@ Pagina-web---landing-page/
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/[tu-usuario]/Pagina-web---landing-page.git
+   git clone https://github.com/[tu-usuario]/Landing_Page_Academia_Digital.git
    ```
 2. Abre el archivo `index.html` en tu navegador web.
 
